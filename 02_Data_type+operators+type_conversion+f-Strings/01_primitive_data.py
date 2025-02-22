@@ -1,32 +1,18 @@
-#there are lot of data types available one of them is String
+#String ~ basically the normal text inside the "" are considered as strings.
 
-print (" Hello ") #this is a string
+print("This is a string")
 
-# the surpise is that we can slice sting data and very easily
-# just like she sliced your heart in 2 , hahaha 
+#Integer ~ basically the number are considered as integers they should not be in " ".
+print(123)
 
-print ("Hello " [0]) # prints first character of the string
-print ("Hello " [1]) # prints second character of the string
-print ("Hello " [2]) # prints third character of the string
+print(12+13)
 
-print ("Hello " [0:3]) # prints characters from 0 to 2 (not including 3)
+print("12" + "13")
+#you can see putting "" considered as string and + considered as concatenation so the output is different.
 
-#now the question why 0 ? why not 1 ? for printing the first character
-# The answer is index number , what is it ???? 
-# sting    =  H E L L O
-# index no =  0 1 2 3 4
-# so the first character is at index 0 , second is at index 1 and so on...
+#Float ~ basically the number with decimal points are considered as float.
+print(12.5)
 
-# we can also use negative index to print characters from end of the string
-print ("Hello " [-1])
-print ("Hello " [-2])
-print ("Hello " [-3])
-
-print ("Hello " [-4:]) # prints characters from -4 to end of the string
-
-# and of course we can slice string with step parameter
-print ("Hello " [0:4:2])
-
-# this will print characters from 0 to 3 (not including 4) with step 2
-
-print ("Hello " [::-1]) # prints string in reverse order
+#Boolean ~ basically the true or false values are considered as boolean.
+print(True)
+print(False)
