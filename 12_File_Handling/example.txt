@@ -1,0 +1,9 @@
+Anslone Kritisch is here .
+I am Anslone Kritisch.
+I am Anslone Kritisch.
+I am learning Python file handling.
+
+I am learning Python file handling.
+This is the first line.
+This is the secondline.
+This is the third line.
