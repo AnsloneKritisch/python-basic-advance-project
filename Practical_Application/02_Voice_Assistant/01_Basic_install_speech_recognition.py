@@ -61,6 +61,8 @@ It means:
 
 '''
 
+# ----------------------------------------------------------
+# CODES
 
 # Import the speech_recognition library for audio capture and processing
 import speech_recognition as sr
